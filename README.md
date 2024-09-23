@@ -5,7 +5,7 @@ script di installazione di sway su archlinux
 ## Installare Sway
 
 ```
-sudo sh installa-sway.sh
+sh installa-sway.sh
 ```
 
 ## Schermata di login con GDM (Opzionale)
