@@ -7,4 +7,4 @@ cp ./swayconfig "$HOME/.config/sway/config"
 
 printf 'Riavviare adesso ? [s/N]: '
 read Y
-printf 'Y:{%s}' "Y"
+printf 'Y:{%s}' "$Y"
